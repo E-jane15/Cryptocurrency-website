@@ -20,3 +20,7 @@ nav{
     display: flex;
     align-items: center;
 }
+.menu{
+    width: 50px;
+    cursor: pointer;
+}
