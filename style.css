@@ -31,3 +31,7 @@ nav ul li{
     display: inline-block;
     margin: 10px 20px;
 }
+nav ul a{
+    color: #ffff;
+    text-decoration: none;
+}
