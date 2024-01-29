@@ -35,3 +35,10 @@ nav ul a{
     color: #ffff;
     text-decoration: none;
 }
+nav .btn{
+    color: #ffff;
+    text-decoration: none;
+    border: 1px solid #ffff;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
