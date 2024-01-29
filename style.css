@@ -52,3 +52,7 @@ nav .btn{
 .content h1 span{
     color: #ff960b;
 }
+.content p{
+    line-height: 22px;
+    font-size: 14px;
+}
